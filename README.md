@@ -85,7 +85,14 @@ Please open new issue threads specifying the issue with the codebase or report i
 
 ## Citation
 ```bash
-Han, T., Adams, L. C., Nebelung, S., Kather, J. N., Bressem, K. K., & Truhn, D. (2023). Multimodal Large Language Models are Generalist Medical Image Interpreters. medRxiv, 2023-12.
+@article{han2023multimodal,
+  title={Multimodal Large Language Models are Generalist Medical Image Interpreters},
+  author={Han, Tianyu and Adams, Lisa C and Nebelung, Sven and Kather, Jakob Nikolas and Bressem, Keno K and Truhn, Daniel},
+  journal={medRxiv},
+  pages={2023--12},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
 ```
 
 ## License
