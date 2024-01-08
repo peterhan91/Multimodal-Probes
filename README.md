@@ -3,7 +3,7 @@
 <summary>
   <b>Multimodal Large Language Models are Generalist Medical Image Interpreters</b>, medRxiv (2023). 
   <a href="https://www.medrxiv.org/content/10.1101/2023.12.21.23300146v4" target="blank">[Paper]</a>
-	<br><em><a href="https://scholar.google.com/citations?hl=en&user=Hxm_OpAAAAAJ">Tianyu Han*</a>, <a href="https://scholar.google.com/citations?user=n-AEUgsAAAAJ&hl=en">Lisa C. Adams*</a>, <a href="https://orcid.org/0000-0002-5267-9962">Sven Nebelung</a>, <a href="https://orcid.org/0000-0002-3730-5348">Jakob Nikolas Kather</a>, <a href="https://scholar.google.com/citations?user=wIEgwbkAAAAJ&hl=en">Keno K. Bressem</a>, <a href="https://scholar.google.de/citations?user=dlbH2gMAAAAJ&hl=de">Daniel Truhn</a></em></br>
+	<br><em><a href="https://scholar.google.com/citations?hl=en&user=Hxm_OpAAAAAJ">Tianyu Han*</a>, <a href="https://scholar.google.com/citations?user=n-AEUgsAAAAJ&hl=en">Lisa C. Adams*</a>, <a href="https://orcid.org/0000-0002-5267-9962">Sven Nebelung</a>, <a href="https://orcid.org/0000-0002-3730-5348">Jakob Nikolas Kather</a>, <a href="https://scholar.google.com/citations?user=wIEgwbkAAAAJ&hl=en">Keno K. Bressem*</a>, and <a href="https://scholar.google.de/citations?user=dlbH2gMAAAAJ&hl=de">Daniel Truhn*</a></em></br>
 </summary>
 
 ```bash
