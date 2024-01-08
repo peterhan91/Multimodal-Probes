@@ -23,9 +23,10 @@ To install Python dependencies:
 
 ```pip install -r requirements.txt```
 
+## Main question: Do large vision-language models, e.g., Flamingo-80B, understand medical data?
 <details>
   <summary>
-	  <b> Main question: Do large vision-language models, e.g., Flamingo-80B, understand medical data?</b>
+	  <b>Abstract</b>
   </summary>
 
 1. **Background** Recent developments in Vision-Language Models (VLMs) offer a new opportunity for the application of AI systems in healthcare. We aim to demonstrate the
@@ -37,7 +38,7 @@ the need for specialized fine-tuning.
 </details>
 
 ## Evidence 1: NEJM Image Challenge benchmark
-Flamingo-80B can correctly answer and reason about complex clinical questions presented in the NEJM Image Challenge.
+Flamingo-80B can correctly answer and reason over 40% of complex clinical questions presented in the NEJM Image Challenge.
 <img width="848" alt="Screen Shot 2022-09-15 at 10 57 16 AM" src="figs/nejm_cases.png">
 
 
