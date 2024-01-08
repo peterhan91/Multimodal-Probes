@@ -57,11 +57,11 @@ nejm_image_challenge/nejm_test.py
 ### Extracting Activations from Vision-Language Models
 Run the following command to perform activation extraction. 
 ```bash
-python -u save_activations_flamingo.py --model HuggingFaceM4/idefics-80b --csv_file ./csvs/patho_kather.csv
+python -u save_activations_flamingo.py --model HuggingFaceM4/idefics-80b-instruct  --csv_file ./csvs/patho_kather.csv
 ```
 or 
 ```bash
-python -u save_activations_flamingo.py --model HuggingFaceM4/idefics-9b --csv_file ./csvs/patho_kather.csv
+python -u save_activations_flamingo.py --model HuggingFaceM4/idefics-9b-instruct  --csv_file ./csvs/patho_kather.csv
 ```
 ### Running Probe Training
 Run the following command to train linear probes on layer activations.  
