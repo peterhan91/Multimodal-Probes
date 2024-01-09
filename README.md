@@ -23,7 +23,7 @@ To install Python dependencies:
 
 ```pip install -r requirements.txt```
 
-## Main question: Do large vision-language models, e.g., Flamingo-80B, understand medical data?
+## Main question: Can general-purpose multimodal LLMs take the lead in digital medicine?
 <details>
   <summary>
 	  <b>Abstract</b>
